@@ -1,0 +1,7 @@
+C:\Users\MediaMonster\source\repos\TestKhadija9-11-20\TestKhadija9-11-20\bin\Debug\TestKhadija9-11-20.exe.config
+C:\Users\MediaMonster\source\repos\TestKhadija9-11-20\TestKhadija9-11-20\bin\Debug\TestKhadija9-11-20.exe
+C:\Users\MediaMonster\source\repos\TestKhadija9-11-20\TestKhadija9-11-20\bin\Debug\TestKhadija9-11-20.pdb
+C:\Users\MediaMonster\source\repos\TestKhadija9-11-20\TestKhadija9-11-20\obj\Debug\TestKhadija9-11-20.csprojAssemblyReference.cache
+C:\Users\MediaMonster\source\repos\TestKhadija9-11-20\TestKhadija9-11-20\obj\Debug\TestKhadija9-11-20.csproj.CoreCompileInputs.cache
+C:\Users\MediaMonster\source\repos\TestKhadija9-11-20\TestKhadija9-11-20\obj\Debug\TestKhadija9-11-20.exe
+C:\Users\MediaMonster\source\repos\TestKhadija9-11-20\TestKhadija9-11-20\obj\Debug\TestKhadija9-11-20.pdb

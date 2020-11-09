@@ -1,0 +1,6 @@
+C:\Users\MediaMonster\source\repos\TestKhadija9-11-20\Vraag4\bin\Debug\Vraag4.exe.config
+C:\Users\MediaMonster\source\repos\TestKhadija9-11-20\Vraag4\bin\Debug\Vraag4.exe
+C:\Users\MediaMonster\source\repos\TestKhadija9-11-20\Vraag4\bin\Debug\Vraag4.pdb
+C:\Users\MediaMonster\source\repos\TestKhadija9-11-20\Vraag4\obj\Debug\Vraag4.csproj.CoreCompileInputs.cache
+C:\Users\MediaMonster\source\repos\TestKhadija9-11-20\Vraag4\obj\Debug\Vraag4.exe
+C:\Users\MediaMonster\source\repos\TestKhadija9-11-20\Vraag4\obj\Debug\Vraag4.pdb

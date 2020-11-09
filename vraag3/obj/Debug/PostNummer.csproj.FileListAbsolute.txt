@@ -1,0 +1,7 @@
+C:\Users\MediaMonster\source\repos\TestKhadija9-11-20\PostNummer\bin\Debug\PostNummer.exe.config
+C:\Users\MediaMonster\source\repos\TestKhadija9-11-20\PostNummer\bin\Debug\PostNummer.exe
+C:\Users\MediaMonster\source\repos\TestKhadija9-11-20\PostNummer\bin\Debug\PostNummer.pdb
+C:\Users\MediaMonster\source\repos\TestKhadija9-11-20\PostNummer\obj\Debug\PostNummer.csprojAssemblyReference.cache
+C:\Users\MediaMonster\source\repos\TestKhadija9-11-20\PostNummer\obj\Debug\PostNummer.csproj.CoreCompileInputs.cache
+C:\Users\MediaMonster\source\repos\TestKhadija9-11-20\PostNummer\obj\Debug\PostNummer.exe
+C:\Users\MediaMonster\source\repos\TestKhadija9-11-20\PostNummer\obj\Debug\PostNummer.pdb
